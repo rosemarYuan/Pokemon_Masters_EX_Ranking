@@ -1,0 +1,2 @@
+# Pokemon_Masters_EX_Ranking
+关于进攻向拍组的爬塔综合排名
